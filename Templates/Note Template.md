@@ -1,5 +1,7 @@
-#{{title}}
+# {{title}}
+
 Created: {{date}} {{time}}
+Tags: 
 
 
 ## References
