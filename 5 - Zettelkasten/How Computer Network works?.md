@@ -1,4 +1,4 @@
-**Tags**: #[[Network]]
+**Tags**: #[[Computer Network]]
 Status: #child
 
 ---
@@ -28,7 +28,7 @@ The communication task may see easy but there are a lot of problem, in fact is n
  
 **Protocol layering** refers to the the organization of network protocols into distinct layer, where each layer is responsible for a specific part of communication. 
 
-![[Architettura.svg| center | 300]]
+![[Layered Architecture.svg| center | 300]]
 ```
 A single, complex protocols is decomposed into simpler, cooperating protocols. Each protocol layers solve a distinct class of communication problems.
 ```
@@ -38,4 +38,4 @@ A single, complex protocols is decomposed into simpler, cooperating protocols. E
 The two main models used to understand and structure network communications are the `ISO/OSI` model and the` TCP/IP` model. Both define how data should be transmitted across a network, but they do so in slightly different ways. 
 
 ## References
-- [[Understanding Network Layer Models]]
+- [[Network Layer Models]]

@@ -1,4 +1,4 @@
-**Tags**: #[[Network]]
+**Tags**: #[[Computer Network]]
 **Status**: #child
 
 ---
