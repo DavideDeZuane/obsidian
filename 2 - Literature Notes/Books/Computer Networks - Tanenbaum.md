@@ -1,8 +1,0 @@
-
-![[Layered Architecture.svg]]
-
-
-
-
-
-

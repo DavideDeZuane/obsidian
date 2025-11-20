@@ -1,5 +1,5 @@
-**Tags**: #[[Computer Network]]
-Status: #child 
+**Tags**: #networks
+**Status**: #child 
 
 ---
 
