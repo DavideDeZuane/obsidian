@@ -1,6 +1,14 @@
 
+### References
+- http://www.pluto.it/files/ildp/guide/lfh/x1243.html
+- https://linux.die.net/man/5/proc
+
 Fondamentalmente ci fornisce una finestra sul funzionamento del kernel.
 Ci permette di vedere lo stato interno del kernel al momento in cui lo richiediamo.
+
+Alcuni file consentono di modificare il comportamento del kernel a run-time e si trovano sotto la directory /proc/sys.
+
+
 
 Pseudo-filesystem
 
@@ -36,6 +44,3 @@ dr-xr-xr-x    4 root     root            0 Jan 19 15:00 tty
 -r--r--r--    1 root     root            0 Jan 19 15:00 version
 ```
 
-### References
-- http://www.pluto.it/files/ildp/guide/lfh/x1243.html
-- 

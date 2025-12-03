@@ -15,3 +15,6 @@ Some older UNIX implementations solved this problem by allowing privileged progr
 To provide easier access to kernel information, many modern UNIX implementations provide a `proc` virtual file system. This file system resides under the `\proc` directory and contains various files that expose kernel information, allowing process to conveniently read that information anche change it in some cases, using normal file I/O system calls.
 
 The file system is said to be virtual because the files and subdirectories that it contains don't reside on a disk. Instead, the kernel creates them "on the fly" as processes access them.
+
+The proc file system expose a range of kernel information to application programs.
+Each /proc/PID directory contains files and sub-directories that provide information about the process whose ID matches PID. Various other files and directories under /proc expose system-wide information that programs can read and, in some cases, modify.
