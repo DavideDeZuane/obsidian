@@ -2,6 +2,15 @@
 ### References
 - http://www.pluto.it/files/ildp/guide/lfh/x1243.html
 - https://linux.die.net/man/5/proc
+- https://it.wikipedia.org/wiki/Procfs
+
+Nato principalmente per tracciare i processi in maniera più semplice viene integrato per trattare i processi come file.
+In Linux oltre a contenere le informazioni di ogni processo sotto la cartella /proc/PID  include altre informazioni come:
+- informazioni sull'hardware
+- infromazioni sui moduli caricati 
+- l'accesso ai parametri modificabili dinamicamente nel kernel 
+- informazioni generiche di sistema 
+Gioca un ruolo fondamentale nello scambio di informazioni tra userspace e kernel space. Nella versione 2.6 del kernel buona parte dei file non relativi ai processi sono stati spostati in un'altro pseudo file system sysfs montato sotto /sys
 
 Fondamentalmente ci fornisce una finestra sul funzionamento del kernel.
 Ci permette di vedere lo stato interno del kernel al momento in cui lo richiediamo.
