@@ -4,6 +4,8 @@
 - https://linux.die.net/man/5/proc
 - https://it.wikipedia.org/wiki/Procfs
 
+Abbreviazione di process file system
+
 Nato principalmente per tracciare i processi in maniera più semplice viene integrato per trattare i processi come file.
 In Linux oltre a contenere le informazioni di ogni processo sotto la cartella /proc/PID  include altre informazioni come:
 - informazioni sull'hardware
