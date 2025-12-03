@@ -43,7 +43,7 @@ In this model we have two type of communication:
 The ISO/OSI model is the reference model
 ```
 
-## Layer
+## Layers
 
 The two models break-down communication into a number of different layers. In fact, we can do the following comparison:
 
@@ -56,7 +56,6 @@ The two models break-down communication into a number of different layers. In fa
 | `Network`      | `Network (Internet)`       | Package routing and identification             |
 | `Data Link`    | `Data Link`                | Communication with devices on the same network |
 | `Physical`     | `Physical`                 | Bit over the communication channel             |
-## References
 
 - [[Application Layer]]
 - [[Transport Layer]]

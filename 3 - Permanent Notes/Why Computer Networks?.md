@@ -1,4 +1,4 @@
-**Tags**: #[[Computer Network]]
+**Tags**: #networks 
 **Status**: #child
 
 ---
@@ -24,7 +24,5 @@ The main problem at time was that at the time (*1960s* and *1970s*), computer ne
 > The main 19-node of the network proposed
 ![[ARPANET.png]]
 
-## Reference
-- [[How Computer Network works?]]
 
 

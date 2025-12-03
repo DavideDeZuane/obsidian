@@ -1,4 +1,4 @@
-**Tags**: #[[Computer Network]]
+**Tags**: #networks 
 Status: #child
 
 ---
@@ -37,5 +37,3 @@ A single, complex protocols is decomposed into simpler, cooperating protocols. E
 
 The two main models used to understand and structure network communications are the `ISO/OSI` model and the` TCP/IP` model. Both define how data should be transmitted across a network, but they do so in slightly different ways. 
 
-## References
-- [[Network Layer Models]]
