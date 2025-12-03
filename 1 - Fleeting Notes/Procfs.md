@@ -6,6 +6,9 @@
 
 Abbreviazione di process file system
 
+
+
+
 Nato principalmente per tracciare i processi in maniera più semplice viene integrato per trattare i processi come file.
 In Linux oltre a contenere le informazioni di ogni processo sotto la cartella /proc/PID  include altre informazioni come:
 - informazioni sull'hardware
@@ -19,7 +22,8 @@ Ci permette di vedere lo stato interno del kernel al momento in cui lo richiedia
 
 Alcuni file consentono di modificare il comportamento del kernel a run-time e si trovano sotto la directory /proc/sys.
 
-
+- **/proc/sys** → _Pannello di controllo_ del kernel.
+- **/sys** → _Mappa dettagliata_ di tutto l’hardware e dei driver del sistema. (è molto più strutturato e gerarchico fornisce più informazioni sull'hardware e i parametri che si possono modificare sono più de idevice che del kerne )
 
 Pseudo-filesystem
 
