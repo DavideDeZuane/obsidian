@@ -1,5 +1,10 @@
 In this section there are the guidelines to write inside the wiki.
 
+
+## Shortcuts
+
+- `Alt+t`: change theme
+
 ## Tags
 Each tags is an empty notes. 
 To apply the tag to a note, add the link to the notes in the metadata filed of the notes (the link is usual syntax, "[[]]"). For example:

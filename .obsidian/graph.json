@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "tag:#indexes",
+      "color": {
+        "a": 1,
+        "rgb": 1045813
+      }
     }
   ],
   "collapse-display": false,
@@ -33,5 +40,5 @@
   "linkStrength": 1,
   "linkDistance": 138,
   "scale": 0.6488873738523634,
-  "close": true
+  "close": false
 }

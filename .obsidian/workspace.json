@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "fbf736dafc89aa3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0591898f94b1733a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dc02d74e79e84ba",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1efacf60ebee3326",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8d28bdf0889c00d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81db603a6bfceaea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "92d1b9f6d9ed159a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a625d2965f95d091",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e14053ab6ca701bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c0b2b6d11c7ab7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cabf57c34090095e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c1aaf21fcec97890",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3e3b3094a62c4ab6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d39116cbe9575b82",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3b844ca03fc60fc6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 - Fleeting Notes/Process Management.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Process Management"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "81db603a6bfceaea",
+  "lastOpenFiles": [
+    "4 - Tags/Kernel.md",
+    "1 - Fleeting Notes/Role of The Kernel.md",
+    "4 - Tags/Computer Science.md",
+    "3 - Permanent Notes/Kernel Tasks.md",
+    "4 - Tags/Computer Network.md",
+    "3 - Permanent Notes/Process Management.md",
+    "3 - Permanent Notes/Why Computer Networks?.md",
+    "1 - Fleeting Notes/Process Life-cycle in the Kernel.md",
+    "3 - Permanent Notes/Transport Layer.md",
+    "3 - Permanent Notes/Proof of Work.md",
+    "3 - Permanent Notes/Physical Layer.md",
+    "3 - Permanent Notes/Network Layer.md",
+    "3 - Permanent Notes/Network Layer Models.md",
+    "3 - Permanent Notes/How Computer Network works?.md",
+    "2 - Literature Notes/Linux Kernel Programming.md",
+    "README.md",
+    "1 - Fleeting Notes/Networking.md",
+    "1 - Fleeting Notes/Memory Management.md",
+    "1 - Fleeting Notes/Access to devices.md",
+    "5 - Images/Timeline Computer.svg",
+    "1 - Fleeting Notes/Resource exhaustion attack.md",
+    "1 - Fleeting Notes/Provision of System call.md",
+    "1 - Fleeting Notes/Procfs.md",
+    "3 - Permanent Notes/Application Layer.md",
+    "2 - Literature Notes/Linux Programming Interface.md",
+    "3 - Permanent Notes/Data-Link Layer.md",
+    "4 - Tags/Cryptography.md",
+    "5 - Images/PRF+.svg",
+    "Projects",
+    "Untitled.base",
+    "Templates",
+    "3 - Permanent Notes",
+    "2 - Literature Notes/Readwise",
+    "5 - Images/net/ARPANET.png",
+    "5 - Images/net/Layered Architecture.svg",
+    "5 - Images/net/Path.svg",
+    "5 - Images/Proof of Work.svg"
+  ]
+}

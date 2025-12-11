@@ -1,6 +1,12 @@
+#indexes 
+
+# Theoretical 
 
 
-### Operating System
+# Applied
+
+
+## Operating System
 
 - [[Kernel]] 
 
